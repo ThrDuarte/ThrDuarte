@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=800080&width=400&separator=%3E&lines=My name is Arthur Bernardo Duarte;%3ESELECT+nome++FROM+pessoas++WHERE+nome+%3D+'Arthur';" alt="Typing SVG" />
-</a>
+
 
 <h1 align="center">🔎 Learning </h1>
 
