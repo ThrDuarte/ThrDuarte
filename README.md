@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  <h3 align="center" >Linguagens de Programação </h3>
 
-<h1 align="center">🔎 Learning </h1>
-
-<div align="center" >
- 
-<img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="60" />
+<div align="center">
+ <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="60" />
  <img width="12" />
 <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="60" />
  <img width="12" />
@@ -29,11 +27,6 @@ Here are some ideas to get you started:
 <img  src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="60" />
  <img width="12" />
 <img  src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="60" />
-  </div>
-
-  <h3 align="center" >Linguagens de Programação </h3>
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
