@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Hi, I'm Arthur Duarte, a Computer Science student 💻
+## Hi there 👋,I'm Arthur Duarte, a Computer Science student 💻
 
 - 🎓 Focused on web development  
 - 📚 Built personal projects to improve my technical skills  
