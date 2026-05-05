@@ -4,8 +4,7 @@
 - 📚 Built personal projects to improve my technical skills  
 - 🤝 Contributed as a volunteer teaching children low-code programming  
 - 🚀 Always looking for new challenges and learning opportunities
-- 
-**ThrDuarte/ThrDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h3 align="center">Linguagens de Programação</h3>
 
